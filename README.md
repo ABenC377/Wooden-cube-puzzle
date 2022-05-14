@@ -1,10 +1,8 @@
 # Wooden-cube-puzzle
 
-My partner recently bought a puzzle, which is a 5x5 wooden cube broken into 25 pieces which have the following squigly shape:
-
-X X 
-
-..X X X
+My partner recently bought a puzzle, which is a 5x5 wooden cube broken into 25 pieces which have a squigly shape a bit like the frustrating squigly pieces in tetris, but extended out by one.  They look a bit like this.
+__x x x
+x x
 
 These 25 pieces can be placed together to remake the cube.
 
