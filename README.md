@@ -4,7 +4,7 @@ My partner recently bought a puzzle, which is a 5x5 wooden cube broken into 25 p
 
 X X 
 
-  X X X
+..X X X
 
 These 25 pieces can be placed together to remake the cube.
 
